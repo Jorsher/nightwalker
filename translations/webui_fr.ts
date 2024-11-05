@@ -101,8 +101,8 @@
         <translation>Reprendre les torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Mettre en pause les torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Mettre en stop les torrents</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -455,12 +455,12 @@
         <translation>À propos</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation>Mettre en pause</translation>
+        <source>Stop</source>
+        <translation>Mettre en stop</translation>
     </message>
     <message>
-        <source>Pause All</source>
-        <translation>Tout mettre en pause</translation>
+        <source>Stop All</source>
+        <translation>Tout mettre en stop</translation>
     </message>
     <message>
         <source>Add Torrent File...</source>
@@ -612,8 +612,8 @@
         <translation>Souhaitez-vous reprendre tous les torrents ?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
-        <translation>Souhaitez-vous mettre en pause tous les torrents ?</translation>
+        <source>Would you like to stop all torrents?</source>
+        <translation>Souhaitez-vous mettre en stop tous les torrents ?</translation>
     </message>
     <message>
         <source>Execution Log</source>
@@ -1193,8 +1193,8 @@
         <translation>Envoi le plus rapide</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
-        <translation>Mettre en pause le torrent</translation>
+        <source>Stop torrent</source>
+        <translation>Mettre en stop le torrent</translation>
     </message>
     <message>
         <source>Remove torrent and its files</source>
@@ -1904,7 +1904,7 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Temps actif :</translation>
     </message>
     <message>
@@ -2260,8 +2260,8 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Repris (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
-        <translation>En pause (0)</translation>
+        <source>Stopped (0)</source>
+        <translation>En stop (0)</translation>
     </message>
     <message>
         <source>Active (0)</source>
@@ -2292,8 +2292,8 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Terminés (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
-        <translation>En pause (%1)</translation>
+        <source>Stopped (%1)</source>
+        <translation>En stop (%1)</translation>
     </message>
     <message>
         <source>Resumed (%1)</source>
@@ -2366,7 +2366,7 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>État</translation>
     </message>
     <message>
@@ -2458,7 +2458,7 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Temps actif</translation>
     </message>
     <message>
@@ -2630,8 +2630,8 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Il y a %1</translation>
     </message>
     <message>
-        <source>Paused</source>
-        <translation>En pause</translation>
+        <source>Stopped</source>
+        <translation>En stop</translation>
     </message>
     <message>
         <source>Completed</source>
@@ -2746,9 +2746,9 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Forcer la reprise</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
-        <translation>Mettre en pause</translation>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
+        <translation>Mettre en stop</translation>
     </message>
     <message>
         <source>Limit share ratio...</source>
@@ -3293,8 +3293,8 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Étiquette :</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Mettre en pause les torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Mettre en stop les torrents</translation>
     </message>
     <message>
         <source>Resume torrents</source>
@@ -3758,8 +3758,8 @@ Utiliser ';' pour diviser plusieurs entrées. Le caractère générique '*' peut
         <translation>Si l'ordre des mots est important, utilisez * au lieu d'un espace.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
-        <translation>Ajouter en pause :</translation>
+        <source>Add Stopped:</source>
+        <translation>Ajouter en stop :</translation>
     </message>
     <message>
         <source>Please type the name of the new download rule.</source>
@@ -3835,8 +3835,8 @@ Les formats supportés : S01E01, 1x1, 2017.12.31 et 31.12.2017 (les formats date
         <translation>Sans tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Mettre en pause les torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Mettre en stop les torrents</translation>
     </message>
     <message>
         <source>Remove torrents</source>

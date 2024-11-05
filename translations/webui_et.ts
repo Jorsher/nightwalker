@@ -101,7 +101,7 @@
         <translation>Jätka torrentitega</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausi torrentid</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Teave</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Paus</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pausi Kõik</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Kas soovite jätkata kõikide torrentitega?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Kas soovite pausile panna kõik torrentid?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Kiireim üleslaadimine</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pausi torrent</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aeg Aktiivne:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pausitud (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Lõpetatud (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pausitud (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Olek</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aeg Aktiivne:</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 tagasi</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pausitud</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Sunni Jätkama</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Paus</translation>
     </message>
     <message>
@@ -3286,7 +3286,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Silt:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausi torrentid</translation>
     </message>
     <message>
@@ -3751,7 +3751,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Kui sõnade järjekord on oluline, siis kasuta * tühimiku asemel.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Lisa Pausitud:</translation>
     </message>
     <message>
@@ -3828,7 +3828,7 @@ Toetab formaate: S01E01, 1x1, 2017.12.31 ja 31.12.2017 (kuupäevade formaate toe
         <translation>Jälitajateta (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausi torrentid</translation>
     </message>
     <message>

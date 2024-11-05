@@ -101,7 +101,7 @@
         <translation>Aviar los torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Metre en pausa los torrents</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>A prepaus</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Metre en pausa</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Tout metre en pausa</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1189,7 +1189,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1893,7 +1893,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Actiu pendent :</translation>
     </message>
     <message>
@@ -2245,7 +2245,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Aviats (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>En Pausa (0)</translation>
     </message>
     <message>
@@ -2277,7 +2277,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Acabats (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>En Pausa (%1)</translation>
     </message>
     <message>
@@ -2351,7 +2351,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Estatut</translation>
     </message>
     <message>
@@ -2443,7 +2443,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Actiu pendent</translation>
     </message>
     <message>
@@ -2615,7 +2615,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>i a %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>En pausa</translation>
     </message>
     <message>
@@ -2731,8 +2731,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Forçar la represa</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Metre en pausa</translation>
     </message>
     <message>
@@ -3274,7 +3274,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Metre en pausa los torrents</translation>
     </message>
     <message>
@@ -3739,7 +3739,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Apondre en pausa :</translation>
     </message>
     <message>
@@ -3815,7 +3815,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Sens tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Metre en pausa los torrents</translation>
     </message>
     <message>

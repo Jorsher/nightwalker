@@ -101,7 +101,7 @@
         <translation>继续 torrent</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>暂停 torrent</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>关于</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>暂停</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>暂停所有任务</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>您要继续所有的 Torrent 吗？</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>您要暂停所有的 Torrent 吗？</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>最快上传</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>暂停 torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>活动时间：</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>恢复 (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>暂停 (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>完成 (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>暂停 (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>状态</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>有效时间</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 前</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>暂停</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>强制继续</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>暂停</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>标签：</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>暂停 torrent</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>如果要区分关键词顺序，请使用 * 替代空格。</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>添加后不开始下载：</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>缺少 Tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>暂停 Torrent</translation>
     </message>
     <message>

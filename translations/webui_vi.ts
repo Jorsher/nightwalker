@@ -101,7 +101,7 @@
         <translation>Tiếp tục torrent</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Tạm dừng torrent</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Thông tin</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Tạm Dừng</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Tạm Dừng Tất Cả</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Bạn có muốn tiếp tục tất cả các torrent không?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Bạn có muốn tạm dừng tất cả các torrent?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Tải lên nhanh nhất</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Tạm dừng torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Thời Gian Hoạt Động:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Đã tiếp tục (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Tạm dừng (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Đã Hoàn Tất (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Bị tạm dừng (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Trạng thái</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Thời Gian Hoạt Động</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>%1 trước</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Bị tạm dừng</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Buộc tiếp tục</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Tạm dừng</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Thẻ:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Tạm dừng torrent</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Sử dụng ';' để chia nhiều mục nhập. Có thể sử dụng ký tự 
         <translation>Nếu thứ tự từ là quan trọng, hãy dùng * thay vì khoảng trắng.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Thêm Bị Tạm Dừng:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Hỗ trợ định dạng: S01E01, 1x1, 2017.12.31 và 31.12.2017 (Hỗ trợ đ
         <translation>Không máy theo dõi (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Tạm dừng torrent</translation>
     </message>
     <message>

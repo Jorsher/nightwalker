@@ -101,7 +101,7 @@
         <translation>토렌트 이어받기</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>토렌트 일시정지</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>정보</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>일시정지</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>모두 일시정지</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>모든 토렌트를 이어받기하시겠습니까?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>모든 토렌트를 일시 정지하시겠습니까?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>가장 빠른 올려주기</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>토렌트 일시정지</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ DNS 재결합 공격을 방어하기 위해
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>활성 시간:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ DNS 재결합 공격을 방어하기 위해
         <translation>이어받기됨 (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>일시정지됨 (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ DNS 재결합 공격을 방어하기 위해
         <translation>완료됨 (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>일시정지됨 (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ DNS 재결합 공격을 방어하기 위해
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>상태</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ DNS 재결합 공격을 방어하기 위해
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>활성 시간</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ DNS 재결합 공격을 방어하기 위해
         <translation>%1 전</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>일시정지됨</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ DNS 재결합 공격을 방어하기 위해
         <translation>이어받기 강제 적용</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>일시정지</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ DNS 재결합 공격을 방어하기 위해
         <translation>태그:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>토렌트 일시정지</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ DNS 재결합 공격을 방어하기 위해
         <translation>단어 순서가 중요하면 공백 대신 *를 사용하세요.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>일시정지해서 추가:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>트래커 없음 (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>토렌트 일시정지</translation>
     </message>
     <message>

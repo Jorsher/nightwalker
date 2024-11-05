@@ -101,7 +101,7 @@
         <translation>Berrekin torrentak</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausatu torrentak</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Honi buruz</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pausatu</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pasatu Denak</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Karga azkarrena</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pausatu torrenta</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Denbora Ekinean:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Berrekinda (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pausatuta (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Osatuta (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pausatuta (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Egoera</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Denbora Ekinean</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>duela %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pausatuta</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Behartu Berrekitea</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pausatu</translation>
     </message>
     <message>
@@ -3286,7 +3286,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Etiketa:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausatu torrentak</translation>
     </message>
     <message>
@@ -3751,7 +3751,7 @@ Erabili ';' sarrera ugari banantzeko. '*' ordez-hizkia erabili daiteke.</transla
         <translation>Hitzen ordena garrantzitsua bada erabili * zuriunearen ordez.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Gehitu pausatuta:</translation>
     </message>
     <message>
@@ -3828,7 +3828,7 @@ Sostengatutako heuskarriak: S01E01, 1x1, 2017.12.31 eta 31.12.2017 (Data heuskar
         <translation>Jarraitzailerik gabe (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausatu torrentak</translation>
     </message>
     <message>

@@ -101,7 +101,7 @@
         <translation>Aizsuokt torrentus</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Nūstuodeit torrentus</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Par</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Nūstateit</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Nūstuodeit vysys</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1189,7 +1189,7 @@
         <translation>Dreižuokā nūsasyuteišona</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Nūstuodeit torrentu</translation>
     </message>
     <message>
@@ -1893,7 +1893,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktivs jau:</translation>
     </message>
     <message>
@@ -2245,7 +2245,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Aizsuoktie (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Nūstuodeiti (0)</translation>
     </message>
     <message>
@@ -2277,7 +2277,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Dabeigti (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Nūstuodeiti (%1)</translation>
     </message>
     <message>
@@ -2351,7 +2351,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Statuss</translation>
     </message>
     <message>
@@ -2443,7 +2443,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktivs jau</translation>
     </message>
     <message>
@@ -2615,7 +2615,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>pyrma %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Nūstuodeits</translation>
     </message>
     <message>
@@ -2731,8 +2731,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Dastateiga aizsuoksona</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Nūstateit</translation>
     </message>
     <message>
@@ -3278,7 +3278,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Byrka:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Nūstuodeit torrentus</translation>
     </message>
     <message>
@@ -3743,7 +3743,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Dalikt nūstuodeitu:</translation>
     </message>
     <message>
@@ -3820,7 +3820,7 @@ Formats: S01E01, 1x1, 2017.12.31 i 31.12.2017 (Datam škiramsimbola "." vītā v
         <translation>Bez trakera (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Nūstuodeit torrentus</translation>
     </message>
     <message>

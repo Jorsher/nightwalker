@@ -101,7 +101,7 @@
         <translation>Συνέχιση torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Παύση των torrents</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Σχετικά</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Παύση</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Παύση Όλων</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Θέλετε σίγουρα να θέσετε σε συνέχιση όλα τα torrent;</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Θέλετε σίγουρα να θέσετε σε παύση όλα τα torrent;</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Γρηγορότερη αποστολή</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Παύση torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Χρόνος εν Ενεργεία:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Σε Συνέχιση (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Σε Παύση (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Ολοκληρωμένα (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Σε Παύση (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Κατάσταση</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Χρόνος εν Ενεργεία</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>πριν από %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Σε Παύση</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Εξαναγκαστική Συνέχιση</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Παύση</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Ετικέτα:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Παύση των torrents</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Εάν η σειρά λέξεων είναι σημαντική, χρησιμοποιήστε * αντί για κενά. </translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Προσθήκη Σε Παύση:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Χωρίς Tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Παύση των torrents</translation>
     </message>
     <message>

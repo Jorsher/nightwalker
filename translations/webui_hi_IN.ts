@@ -101,7 +101,7 @@
         <translation>टौरेंटो को प्रारम्भ करें</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>टौरेंटो को विराम दें</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>बारे मेॅ</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>विराम दें</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>सभी को विराम दें</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>तीव्रतम अपलोड</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>टौरेंट को विराम दें</translation>
     </message>
     <message>
@@ -1897,7 +1897,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>सक्रिय काल:</translation>
     </message>
     <message>
@@ -2249,7 +2249,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>प्रारम्भित(0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>विरामित (0)</translation>
     </message>
     <message>
@@ -2281,7 +2281,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>पूर्ण (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>विरामित (%1)</translation>
     </message>
     <message>
@@ -2355,7 +2355,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>स्थिति</translation>
     </message>
     <message>
@@ -2447,7 +2447,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>सक्रिय काल</translation>
     </message>
     <message>
@@ -2619,7 +2619,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 पहले</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>विरामित</translation>
     </message>
     <message>
@@ -2735,8 +2735,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>बलपूर्वक प्रारम्भ करें</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>विराम दें</translation>
     </message>
     <message>
@@ -3282,7 +3282,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>उपनाम:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>टौरेंटो को विराम दें</translation>
     </message>
     <message>
@@ -3747,7 +3747,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>यदि शब्द क्रम महत्त्वपूर्ण है तो रिक्तताओं के स्थान पर * का प्रयोग कीजिये।</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>विरामित जोड़ें:</translation>
     </message>
     <message>
@@ -3824,7 +3824,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>ट्रैकर रहित (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>टौरेंटो को विराम दें</translation>
     </message>
     <message>

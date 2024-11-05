@@ -265,8 +265,8 @@ window.addEvent('load', function() {
         $("downloading_filter").removeClass("selectedFilter");
         $("seeding_filter").removeClass("selectedFilter");
         $("completed_filter").removeClass("selectedFilter");
-        $("paused_filter").removeClass("selectedFilter");
-        $("resumed_filter").removeClass("selectedFilter");
+        $("stopped_filter").removeClass("selectedFilter");
+        $("started_filter").removeClass("selectedFilter");
         $("active_filter").removeClass("selectedFilter");
         $("inactive_filter").removeClass("selectedFilter");
         $("stalled_filter").removeClass("selectedFilter");
@@ -438,8 +438,8 @@ window.addEvent('load', function() {
         updateFilter('downloading', 'Downloading (%1)');
         updateFilter('seeding', 'Seeding (%1)');
         updateFilter('completed', 'Completed (%1)');
-        updateFilter('resumed', 'Resumed (%1)');
-        updateFilter('paused', 'Paused (%1)');
+        updateFilter('started', 'Started (%1)');
+        updateFilter('stopped', 'Stopped (%1)');
         updateFilter('active', 'Active (%1)');
         updateFilter('inactive', 'Inactive (%1)');
         updateFilter('stalled', 'Stalled (%1)');

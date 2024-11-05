@@ -101,8 +101,8 @@
         <translation>Gjenoppta torrenter</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sett torrenter på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sett torrenter på stop</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -455,12 +455,12 @@
         <translation>Om</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation>Sett på pause</translation>
+        <source>Stop</source>
+        <translation>Sett på stop</translation>
     </message>
     <message>
-        <source>Pause All</source>
-        <translation>Sett alt på pause</translation>
+        <source>Stop All</source>
+        <translation>Sett alt på stop</translation>
     </message>
     <message>
         <source>Add Torrent File...</source>
@@ -612,8 +612,8 @@
         <translation>Vil du gjenoppta alle torrenter?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
-        <translation>Vil du sette alle torrenter på pause?</translation>
+        <source>Would you like to stop all torrents?</source>
+        <translation>Vil du sette alle torrenter på stop?</translation>
     </message>
     <message>
         <source>Execution Log</source>
@@ -1193,8 +1193,8 @@
         <translation>Raskeste opplasting</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
-        <translation>Sett torrent på pause</translation>
+        <source>Stop torrent</source>
+        <translation>Sett torrent på stop</translation>
     </message>
     <message>
         <source>Remove torrent and its files</source>
@@ -1905,7 +1905,7 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktivitetstid:</translation>
     </message>
     <message>
@@ -2261,8 +2261,8 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>Gjenopptatte (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
-        <translation>Satt på pause (0)</translation>
+        <source>Stopped (0)</source>
+        <translation>Satt på stop (0)</translation>
     </message>
     <message>
         <source>Active (0)</source>
@@ -2293,8 +2293,8 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>Fullførte (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
-        <translation>Satt på pause (%1)</translation>
+        <source>Stopped (%1)</source>
+        <translation>Satt på stop (%1)</translation>
     </message>
     <message>
         <source>Resumed (%1)</source>
@@ -2367,7 +2367,7 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktivitetstid</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>%1 siden</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pauset</translation>
     </message>
     <message>
@@ -2747,9 +2747,9 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>Påtving gjenopptakelse</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
-        <translation>Sett på pause</translation>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
+        <translation>Sett på stop</translation>
     </message>
     <message>
         <source>Limit share ratio...</source>
@@ -3294,8 +3294,8 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>Etikett:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sett torrenter på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sett torrenter på stop</translation>
     </message>
     <message>
         <source>Resume torrents</source>
@@ -3759,7 +3759,7 @@ Bruk ";" for å splitte flerfoldige oppføringer. Jokertegnet "*" kan brukes.</t
         <translation>Bruk * i stedet for tomrom hvis ord-rekkefølgen er viktig.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Legg til uten å starte:</translation>
     </message>
     <message>
@@ -3836,8 +3836,8 @@ Støtter de følgende formatene: S01E01, 1x1, 2017.12.31, og 31.12.2017 (Datofor
         <translation>Sporerløse (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sett torrenter på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sett torrenter på stop</translation>
     </message>
     <message>
         <source>Remove torrents</source>

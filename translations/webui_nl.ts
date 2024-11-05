@@ -101,7 +101,7 @@
         <translation>Torrents hervatten</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pauzeren</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Over</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pauzeren</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Alles pauzeren</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Wilt u alle torrents hervatten?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Wilt u alle torrents pauzeren?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Snelste upload</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrent pauzeren</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Tijd actief:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>Hervat (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Gepauzeerd (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>Voltooid (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Gepauzeerd (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tijd actief</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>%1 geleden</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Gepauzeerd</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>Geforceerd hervatten</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pauzeren</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>Label:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pauzeren</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Gebruik ';' om meerdere items te splitsen. Jokerteken '*' kan gebruikt worden.</
         <translation>Gebruik * in plaats van een spatie als woordvolgorde belangrijk is.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Gepauzeerd toevoegen:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Ondersteunt de formaten:  S01E01, 1x1, 2017.12.31 en 31.12.2017 (datumformaten o
         <translation>Zonder trackers (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pauzeren</translation>
     </message>
     <message>

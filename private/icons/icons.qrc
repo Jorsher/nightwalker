@@ -315,14 +315,14 @@
         <file>mail-folder-inbox.svg</file>
         <file>mail-mark-read.svg</file>
         <file>mascot.png</file>
-        <file>media-playback-pause.svg</file>
+        <file>media-playback-stop.svg</file>
         <file>media-playback-start.svg</file>
         <file>media-seek-forward.svg</file>
         <file>network-server.svg</file>
         <file>network-wired.svg</file>
         <file>object-locked.svg</file>
         <file>office-chart-line.svg</file>
-        <file>paused.svg</file>
+        <file>stopped.svg</file>
         <file>preferences-desktop.svg</file>
         <file>preferences-other.svg</file>
         <file>preferences-system-network.svg</file>

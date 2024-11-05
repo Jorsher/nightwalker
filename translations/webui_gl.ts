@@ -101,7 +101,7 @@
         <translation>Continuar os torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Deter os torrents</translation>
     </message>
     <message>
@@ -456,11 +456,11 @@ Non use caracteres especiais no nome da categoría.</translation>
         <translation>Sobre</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Deter</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pausar todo</translation>
     </message>
     <message>
@@ -613,7 +613,7 @@ Non use caracteres especiais no nome da categoría.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1194,7 +1194,7 @@ Non use caracteres especiais no nome da categoría.</translation>
         <translation>Envío máis rápido</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Deter o torrent</translation>
     </message>
     <message>
@@ -1902,7 +1902,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Tempo  en activo:</translation>
     </message>
     <message>
@@ -2254,7 +2254,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Comezados (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Detidos (0)</translation>
     </message>
     <message>
@@ -2286,7 +2286,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Completados (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Detidos (%1)</translation>
     </message>
     <message>
@@ -2360,7 +2360,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Estado</translation>
     </message>
     <message>
@@ -2452,7 +2452,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tempo  en activo</translation>
     </message>
     <message>
@@ -2624,7 +2624,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Hai %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Detido</translation>
     </message>
     <message>
@@ -2740,8 +2740,8 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Forzar continuación</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Deter</translation>
     </message>
     <message>
@@ -3287,7 +3287,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Etiqueta:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Deter os torrents</translation>
     </message>
     <message>
@@ -3752,7 +3752,7 @@ Usar «;» para dividir entradas múltiples. Pode usar o comodín «*».</transl
         <translation>Se a orde das palabras importa, use * no canto dun espazo en branco.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Engadir como detidos:</translation>
     </message>
     <message>
@@ -3829,7 +3829,7 @@ Compatíbel cos formatos: S01E01, 1x1, 2017.12.31 e 31.12.2017 (os formatos da d
         <translation>Sen localizador (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Deter os torrents</translation>
     </message>
     <message>

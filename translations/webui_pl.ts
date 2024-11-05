@@ -101,7 +101,7 @@
         <translation>Wznów torrenty</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Wstrzymaj torrenty</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>O programie</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Wstrzymaj</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Wstrzymaj wszystkie</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Czy chcesz wznowić wszystkie torrenty?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Czy chcesz wstrzymać wszystkie torrenty?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Najszybsze wysyłanie</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Wstrzymaj torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktywny przez:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>Wznowione (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Wstrzymane (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>Ukończone (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Wstrzymane (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktywny przez</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>%1 temu</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Wstrzymano</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>Wymuś wznowienie</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Wstrzymaj</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>Znacznik:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Wstrzymaj torrenty</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Użyj ';' do rozdzielania wielu wpisów. Można użyć wieloznacznika '*'.</tran
         <translation>Jeśli kolejność słów jest ważna, użyj * zamiast odstępu.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Dodaj wstrzymane:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Obsługuje formaty: S01E01, 1x1, 2017.12.31 oraz 31.12.2017 (Formaty daty równi
         <translation>Bez trackera (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Wstrzymaj torrenty</translation>
     </message>
     <message>

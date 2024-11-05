@@ -101,7 +101,7 @@
         <translation>ادامه دانلود تورنتها</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>توقف دانلود تورنتها</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>درباره</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>توقف</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>توقف همه</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1189,7 +1189,7 @@
         <translation>سریعترین بارگذاری</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>توقف تورنت</translation>
     </message>
     <message>
@@ -1893,7 +1893,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>مدت زمان فعال بودن:</translation>
     </message>
     <message>
@@ -2245,7 +2245,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -2277,7 +2277,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>کامل شده (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>متوقف شده (%1)</translation>
     </message>
     <message>
@@ -2351,7 +2351,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>وضعیت</translation>
     </message>
     <message>
@@ -2443,7 +2443,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>مدت زمان فعال بودن</translation>
     </message>
     <message>
@@ -2615,7 +2615,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>متوقف شده</translation>
     </message>
     <message>
@@ -2731,8 +2731,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>اجبار به ادامه</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>توقف</translation>
     </message>
     <message>
@@ -3278,7 +3278,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>برچسب‌:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>توقف دانلود تورنتها</translation>
     </message>
     <message>
@@ -3743,7 +3743,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>افزودن در حالت متوقف شده:</translation>
     </message>
     <message>
@@ -3819,7 +3819,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>بدون ترکر (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>توقف دانلود تورنتها</translation>
     </message>
     <message>

@@ -101,7 +101,7 @@
         <translation>Återuppta torrenter</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausa torrenter</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Om</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pausa</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pausa alla</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Vill du återuppta alla torrenter?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Vill du pausa alla torrenter?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Snabbaste sändning</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pausa torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Tid aktiv:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Återupptagen (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pausad (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Slutförda (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pausad (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tid aktiv</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>%1 sedan</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pausade</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Tvinga återuppta</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pausa</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Tagg:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausa torrenter</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Använd ";" för att dela upp i flera poster. Du kan använda jokertecknet "*".<
         <translation>Om ordordning är viktig, använd * istället för blanksteg.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Lägg till pausad:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Stöder formaten: S01E01, 1x1, 2017.12.31 och 31.12.2017 (datumformatet stöder 
         <translation>Utan spårare (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausa torrenter</translation>
     </message>
     <message>

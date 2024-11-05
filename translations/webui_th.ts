@@ -101,7 +101,7 @@
         <translation>ดำเนินการทอร์เรนต์ต่อ</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>หยุดทอร์เรนต์</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>เกี่ยวกับ</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>พัก</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>หยุดทั้งหมด</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>ต้องการดำเนินการต่อทุกทอเร้นต์?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>ต้องการหยุดชั่วคราวทุกทอเร้นต์?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>อัปโหลดเร็วที่สุด</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>หยุดทอร์เรนต์</translation>
     </message>
     <message>
@@ -1897,7 +1897,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>ใช้เวลาไป:</translation>
     </message>
     <message>
@@ -2249,7 +2249,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>ดำเนินการต่อ (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>หยุดชั่วคราว (0)</translation>
     </message>
     <message>
@@ -2281,7 +2281,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>เสร็จสมบูรณ์ (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>หยุดชั่วคราว (%1)</translation>
     </message>
     <message>
@@ -2355,7 +2355,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>สถานะ</translation>
     </message>
     <message>
@@ -2447,7 +2447,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>ใช้เวลาไป</translation>
     </message>
     <message>
@@ -2619,7 +2619,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 ที่แล้ว</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>หยุดชั่วคราว</translation>
     </message>
     <message>
@@ -2735,8 +2735,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>บังคับให้ดำเนินการต่อ</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>พัก</translation>
     </message>
     <message>
@@ -3282,7 +3282,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>เท็ก:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>หยุดทอร์เรนต์</translation>
     </message>
     <message>
@@ -3747,7 +3747,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>หากลำดับคำมีความสำคัญให้ใช้ * แทนช่องว่าง</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>เพิ่มหยุดชั่วคราว:</translation>
     </message>
     <message>
@@ -3824,7 +3824,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>หยุดทอร์เรนต์</translation>
     </message>
     <message>

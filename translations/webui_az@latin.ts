@@ -101,7 +101,7 @@
         <translation>Torrentləri davam etdirmək</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentlərə fasilə</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Haqqında</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Fasilə</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Hamısına fasilə</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Bütün torrentlər davam etdirilsin?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Bütün torrenlərə fasilə verilsin?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Ən sürətli yükləmə</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrentə fasilə</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktivlik müddəti:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Davam etdirilən (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Fasilədə (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Başa çatdı (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Fasilədə (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Vəziyyət</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktivlik müddəti</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>%1 əvvəl</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Fasilədə</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Məcburi davam etdirmək</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Fasilə</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Etiket:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentlərə fasilə</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ serveri tərəfindən istifadə olunan domen adını göstərməlisiniz.
         <translation>Əgər sözlərin sıralanmasının istifadəsi vacibdirsə boşluq əvəzinə «*» istifadə edin.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Fasilədə, kimi əlavə edin:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Bu formatlar dəstəklənir: S01E01, 1x1, 2017.12.31 və 31.12.2017 (Həmçinin 
         <translation>İzləyicilərsiz (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentlərə fasilə</translation>
     </message>
     <message>

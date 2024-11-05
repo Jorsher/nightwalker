@@ -101,7 +101,7 @@
         <translation>המשך טורנטים</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>השהה טורנטים</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>אודות</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>השהה</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>השהה הכול</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>ההעלאה הכי מהירה</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>השהה טורנט</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>משך זמן פעיל:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>מומשך (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>מושהה (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>הושלם (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>מושהה (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>מיצב</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>משך זמן פעיל</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 קודם לכן</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>מושהה</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>אלץ המשכה</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>השהה</translation>
     </message>
     <message>
@@ -3286,7 +3286,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>תגית:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>השהה טורנטים</translation>
     </message>
     <message>
@@ -3751,7 +3751,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>אם סדר מילים חשוב, השתמש ב־* במקום רווח לבן.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>הוסף מושהים:</translation>
     </message>
     <message>
@@ -3828,7 +3828,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>חסר־גששים (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>השהה טורנטים</translation>
     </message>
     <message>

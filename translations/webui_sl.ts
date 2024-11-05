@@ -101,7 +101,7 @@
         <translation>Nadaljuj torrente</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Ustavi torrente</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>O programu</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Premor</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Premor vseh</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Ali ste prepričani, da želite nadaljevati vse torrente?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Ali ste prepričani, da želite začasno ustaviti vse torrente?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Najhitrejše pošiljanje</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Začasno ustavi torrent</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Čas delovanja:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>Se nadaljuje (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>V premoru (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>Končano (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>V premoru (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Stanje</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Čas delovanja</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>%1 nazaj</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>V premoru</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>Prisili nadaljevanje</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Premor</translation>
     </message>
     <message>
@@ -3286,7 +3286,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>Oznaka:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Ustavi torrente</translation>
     </message>
     <message>
@@ -3751,7 +3751,7 @@ Uporabi ';' da razčleniš vnose. Lahko uporbiš nadomestni znak '*'.</translati
         <translation>Če je vrstni red besed pomemben uporabi * namesto presledka.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Dodaj torrente v premoru:</translation>
     </message>
     <message>
@@ -3829,7 +3829,7 @@ Podprti formati: S01E01, 1x1, 2017.12.31 and 31.12.2017
         <translation>Brez sledilnika (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Premor torrentov</translation>
     </message>
     <message>

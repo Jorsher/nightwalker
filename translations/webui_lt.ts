@@ -101,7 +101,7 @@
         <translation>Pratęsti torentus</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pristabdyti torentus</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Apie</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pristabdyti</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pristabdyti visus</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1189,7 +1189,7 @@
         <translation>Greičiausias išsiuntimas</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pristabdyti torentą</translation>
     </message>
     <message>
@@ -1899,7 +1899,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktyvus:</translation>
     </message>
     <message>
@@ -2251,7 +2251,7 @@ pakaitos simbolį "*".</translation>
         <translation>Pratęsti (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pristabdyti (0)</translation>
     </message>
     <message>
@@ -2283,7 +2283,7 @@ pakaitos simbolį "*".</translation>
         <translation>Užbaigti (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pristabdyti (%1)</translation>
     </message>
     <message>
@@ -2357,7 +2357,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Būsena</translation>
     </message>
     <message>
@@ -2449,7 +2449,7 @@ pakaitos simbolį "*".</translation>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktyvus</translation>
     </message>
     <message>
@@ -2621,7 +2621,7 @@ pakaitos simbolį "*".</translation>
         <translation>prieš %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pristabdyti</translation>
     </message>
     <message>
@@ -2737,8 +2737,8 @@ pakaitos simbolį "*".</translation>
         <translation>Priverstinai pratęsti</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pristabdyti</translation>
     </message>
     <message>
@@ -3284,7 +3284,7 @@ pakaitos simbolį "*".</translation>
         <translation>Žymė:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pristabdyti torentus</translation>
     </message>
     <message>
@@ -3749,7 +3749,7 @@ pakaitos simbolį "*".</translation>
         <translation>Jeigu yra svarbi žodžių tvarka, vietoj tarpų naudokite *</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Pridėti pristabdytus:</translation>
     </message>
     <message>
@@ -3826,7 +3826,7 @@ Palaiko formatus: S01E01, 1x1, 2017.12.31 ir 31.12.2017 (Datos formatai taip pat
         <translation>Be seklių (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pristabdyti torentus</translation>
     </message>
     <message>

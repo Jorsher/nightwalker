@@ -101,7 +101,7 @@
         <translation>Torrents fortsetzen</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pausieren</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Über</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pausieren</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Alle anhalten</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Sollen alle Torrents fortgesetzt werden?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Sollen alle Torrents angehalten werden?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Schnellster Upload</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrent pausieren</translation>
     </message>
     <message>
@@ -1907,7 +1907,7 @@ Platzhalter '*' kann verwendet werden.</translation>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktiv seit:</translation>
     </message>
     <message>
@@ -2263,7 +2263,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Fortgesetzt (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pausiert (0)</translation>
     </message>
     <message>
@@ -2295,7 +2295,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Abgeschlossen (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pausiert (%1)</translation>
     </message>
     <message>
@@ -2369,7 +2369,7 @@ Platzhalter '*' kann verwendet werden.</translation>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2461,7 +2461,7 @@ Platzhalter '*' kann verwendet werden.</translation>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktiv seit</translation>
     </message>
     <message>
@@ -2633,7 +2633,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>vor %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Angehalten</translation>
     </message>
     <message>
@@ -2749,8 +2749,8 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Fortsetzen erzwingen</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Anhalten</translation>
     </message>
     <message>
@@ -3296,7 +3296,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Label:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pausieren</translation>
     </message>
     <message>
@@ -3761,7 +3761,7 @@ Platzhalter '*' kann verwendet werden.</translation>
         <translation>Wenn die Wortreihenfolge wichtig ist * anstelle von Leerzeichen verwenden</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Pausiert hinzufügen:</translation>
     </message>
     <message>
@@ -3838,7 +3838,7 @@ Er unterstützt die Formate: S01E01, 1x1, 2017.12.31 und 31.12.2017 (Datums-Form
         <translation>Ohne Tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrents pausieren</translation>
     </message>
     <message>

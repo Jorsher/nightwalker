@@ -101,7 +101,7 @@
         <translation>Nastavi torrente</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pauziraj torrente</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>O programu</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pauziraj</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pauziraj sve</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Želite li nastaviti sa svim torrentima?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Želite li pauzirati sve torrente?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Najbrže učitavanje</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pauziraj torrente</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktivno vrijeme:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>Nastavljeno (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pauzirano (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>Završeno (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pauzirano (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Vrijeme aktivnosti</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>prije %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pauzirano</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>Prisili nastavak</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pauziraj</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>Oznaka:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pauziraj torrente</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Koristite ';' za razdvajanje više unosa. Može koristiti zamjenski znak '*'.</t
         <translation>Ako je redoslijed riječi važan, koristite * umjesto razmaka.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Dodaj pauzirano:</translation>
     </message>
     <message>
@@ -3835,7 +3835,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Bez trackera (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pauziraj torrente</translation>
     </message>
     <message>

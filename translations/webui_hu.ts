@@ -101,7 +101,7 @@
         <translation>Torrentek folytatása</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentek szüneteltetése</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Névjegy</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Szünet</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Összes szüneteltetése</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Folytatja az összes torrentet?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Szünetelteti az összes torrentet?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Leggyorsabb feltöltés</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrent szüneteltetése</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktív idő:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Folytatott (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Szüneteltetett (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Kész (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Szüneteltetett (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Állapot</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktív idő</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>%1 ideje</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Szüneteltetett</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Kényszerített folytatás</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Szünet</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Címke:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentek szüneteltetése</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Használja a ';' karaktert az elválasztásra, ha több is van. A '*' helyettes�
         <translation>Ha a szósorrend fontos, akkor használjon *-ot üres karakter helyett</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Hozzáad szüneteltetve:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Támogatja a formátumokat: S01E01, 1x1, 2017.12.31 és 31.12.2017. (A dátumfor
         <translation>Tracker nélküli (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentek szüneteltetése</translation>
     </message>
     <message>

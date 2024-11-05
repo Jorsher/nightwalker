@@ -101,7 +101,7 @@
         <translation>Reprèn els torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Interromp els torrents</translation>
     </message>
     <message>
@@ -456,11 +456,11 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>Quant a</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Interromp</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Interromp-ho tot</translation>
     </message>
     <message>
@@ -613,7 +613,7 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>Voleu reprendre tots els torrents?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Voleu interrompre tots els torrents?</translation>
     </message>
     <message>
@@ -1194,7 +1194,7 @@ Si us plau, no useu cap caràcter especial al nom de la categoria.</translation>
         <translation>La pujada més ràpida</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Interromp el torrent</translation>
     </message>
     <message>
@@ -1906,7 +1906,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Temps actiu:</translation>
     </message>
     <message>
@@ -2262,7 +2262,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Represos (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Interromputs (0)</translation>
     </message>
     <message>
@@ -2294,7 +2294,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Completats (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Interromputs (%1)</translation>
     </message>
     <message>
@@ -2368,7 +2368,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Estat</translation>
     </message>
     <message>
@@ -2460,7 +2460,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Temps actiu</translation>
     </message>
     <message>
@@ -2632,7 +2632,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>fa %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Interromput</translation>
     </message>
     <message>
@@ -2748,8 +2748,8 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Força la represa</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Interromp</translation>
     </message>
     <message>
@@ -3295,7 +3295,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Etiqueta:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Interromp els torrents</translation>
     </message>
     <message>
@@ -3760,7 +3760,7 @@ Useu ";" per separar les entrades. Podeu usar el comodí "*".</translation>
         <translation>Si l'ordre de paraules és important, useu * en comptes de l'espai en blanc.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Afegeix els interromputs:</translation>
     </message>
     <message>
@@ -3837,7 +3837,7 @@ Admet els formats S01E01, 1x1, 2017.12.31 i 31.12.2017 (Els formats de data tamb
         <translation>Sense rastrejadors (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Interromp els torrents</translation>
     </message>
     <message>

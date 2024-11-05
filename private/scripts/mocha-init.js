@@ -55,7 +55,7 @@ let globalDownloadLimitFN = function() {};
 let StatisticsLinkFN = function() {};
 let downloadLimitFN = function() {};
 let deleteFN = function() {};
-let pauseFN = function() {};
+let stopFN = function() {};
 let startFN = function() {};
 let autoTorrentManagementFN = function() {};
 let recheckFN = function() {};
@@ -71,7 +71,7 @@ let editCategoryFN = function() {};
 let removeCategoryFN = function() {};
 let deleteUnusedCategoriesFN = function() {};
 let startTorrentsByCategoryFN = function() {};
-let pauseTorrentsByCategoryFN = function() {};
+let stopTorrentsByCategoryFN = function() {};
 let deleteTorrentsByCategoryFN = function() {};
 let torrentAddTagsFN = function() {};
 let torrentSetTagsFN = function() {};
@@ -80,10 +80,10 @@ let createTagFN = function() {};
 let removeTagFN = function() {};
 let deleteUnusedTagsFN = function() {};
 let startTorrentsByTagFN = function() {};
-let pauseTorrentsByTagFN = function() {};
+let stopTorrentsByTagFN = function() {};
 let deleteTorrentsByTagFN = function() {};
-let resumeTorrentsByTrackerFN = function() {};
-let pauseTorrentsByTrackerFN = function() {};
+let startTorrentsByTrackerFN = function() {};
+let stopTorrentsByTrackerFN = function() {};
 let deleteTorrentsByTrackerFN = function() {};
 let copyNameFN = function() {};
 let copyInfohashFN = function(policy) {};
@@ -404,11 +404,11 @@ const initializeWindows = function() {
         deleteFN();
     });
 
-    pauseFN = function() {
+    stopFN = function() {
         const hashes = torrentsTable.selectedRowsIds();
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/pause',
+                url: 'api/v2/torrents/stop',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -422,7 +422,7 @@ const initializeWindows = function() {
         const hashes = torrentsTable.selectedRowsIds();
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/resume',
+                url: 'api/v2/torrents/start',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -677,7 +677,7 @@ const initializeWindows = function() {
         const hashes = torrentsTable.getFilteredTorrentsHashes('all', categoryHash, TAGS_ALL, TRACKERS_ALL);
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/resume',
+                url: 'api/v2/torrents/start',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -687,11 +687,11 @@ const initializeWindows = function() {
         }
     };
 
-    pauseTorrentsByCategoryFN = function(categoryHash) {
+    stopTorrentsByCategoryFN = function(categoryHash) {
         const hashes = torrentsTable.getFilteredTorrentsHashes('all', categoryHash, TAGS_ALL, TRACKERS_ALL);
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/pause',
+                url: 'api/v2/torrents/stop',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -818,7 +818,7 @@ const initializeWindows = function() {
         const hashes = torrentsTable.getFilteredTorrentsHashes('all', CATEGORIES_ALL, tagHash, TRACKERS_ALL);
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/resume',
+                url: 'api/v2/torrents/start',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -828,11 +828,11 @@ const initializeWindows = function() {
         }
     };
 
-    pauseTorrentsByTagFN = function(tagHash) {
+    stopTorrentsByTagFN = function(tagHash) {
         const hashes = torrentsTable.getFilteredTorrentsHashes('all', CATEGORIES_ALL, tagHash, TRACKERS_ALL);
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/pause',
+                url: 'api/v2/torrents/stop',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -861,7 +861,7 @@ const initializeWindows = function() {
         }
     };
 
-    resumeTorrentsByTrackerFN = function(trackerHash) {
+    startTorrentsByTrackerFN = function(trackerHash) {
         const trackerHashInt = Number.parseInt(trackerHash, 10);
         let hashes = [];
         switch (trackerHashInt) {
@@ -878,7 +878,7 @@ const initializeWindows = function() {
 
         if (hashes.length > 0) {
             new Request({
-                url: 'api/v2/torrents/resume',
+                url: 'api/v2/torrents/start',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -888,7 +888,7 @@ const initializeWindows = function() {
         }
     };
 
-    pauseTorrentsByTrackerFN = function(trackerHash) {
+    stopTorrentsByTrackerFN = function(trackerHash) {
         const trackerHashInt = Number.parseInt(trackerHash, 10);
         let hashes = [];
         switch (trackerHashInt) {
@@ -905,7 +905,7 @@ const initializeWindows = function() {
 
         if (hashes.length) {
             new Request({
-                url: 'api/v2/torrents/pause',
+                url: 'api/v2/torrents/stop',
                 method: 'post',
                 data: {
                     hashes: hashes.join("|")
@@ -1029,12 +1029,12 @@ const initializeWindows = function() {
         }
     };
 
-    addClickEvent('pauseAll', (e) => {
+    addClickEvent('stopAll', (e) => {
         new Event(e).stop();
 
-        if (confirm('Would you like to pause all torrents?')) {
+        if (confirm('Would you like to stop all torrents?')) {
             new Request({
-                url: 'api/v2/torrents/pause',
+                url: 'api/v2/torrents/stop',
                 method: 'post',
                 data: {
                     hashes: "all"
@@ -1044,12 +1044,12 @@ const initializeWindows = function() {
         }
     });
 
-    addClickEvent('resumeAll', (e) => {
+    addClickEvent('startAll', (e) => {
         new Event(e).stop();
 
-        if (confirm('Would you like to resume all torrents?')) {
+        if (confirm('Would you like to start all torrents?')) {
             new Request({
-                url: 'api/v2/torrents/resume',
+                url: 'api/v2/torrents/start',
                 method: 'post',
                 data: {
                     hashes: "all"
@@ -1059,7 +1059,7 @@ const initializeWindows = function() {
         }
     });
 
-    ['pause', 'resume', 'recheck'].each(function(item) {
+    ['stop', 'start', 'recheck'].each(function(item) {
         addClickEvent(item, function(e) {
             new Event(e).stop();
             const hashes = torrentsTable.selectedRowsIds();

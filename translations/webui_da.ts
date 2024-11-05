@@ -101,8 +101,8 @@
         <translation>Genoptag torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sæt torrents på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sæt torrents på stop</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -455,12 +455,12 @@
         <translation>Om</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation>Sæt på pause</translation>
+        <source>Stop</source>
+        <translation>Sæt på stop</translation>
     </message>
     <message>
-        <source>Pause All</source>
-        <translation>Sæt alle på pause</translation>
+        <source>Stop All</source>
+        <translation>Sæt alle på stop</translation>
     </message>
     <message>
         <source>Add Torrent File...</source>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1193,8 +1193,8 @@
         <translation>Hurtigste upload</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
-        <translation>Sæt torrent på pause</translation>
+        <source>Stop torrent</source>
+        <translation>Sæt torrent på stop</translation>
     </message>
     <message>
         <source>Remove torrent and its files</source>
@@ -1901,7 +1901,7 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Tid aktiv:</translation>
     </message>
     <message>
@@ -2253,8 +2253,8 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>Genoptaget (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
-        <translation>Sat på pause (0)</translation>
+        <source>Stopped (0)</source>
+        <translation>Sat på stop (0)</translation>
     </message>
     <message>
         <source>Active (0)</source>
@@ -2285,8 +2285,8 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>Færdige (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
-        <translation>Sat på pause (%1)</translation>
+        <source>Stopped (%1)</source>
+        <translation>Sat på stop (%1)</translation>
     </message>
     <message>
         <source>Resumed (%1)</source>
@@ -2359,7 +2359,7 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tid aktiv</translation>
     </message>
     <message>
@@ -2623,8 +2623,8 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>%1 siden</translation>
     </message>
     <message>
-        <source>Paused</source>
-        <translation>Sat på pause</translation>
+        <source>Stopped</source>
+        <translation>Sat på stop</translation>
     </message>
     <message>
         <source>Completed</source>
@@ -2739,9 +2739,9 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>Tving genoptag</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
-        <translation>Sæt på pause</translation>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
+        <translation>Sæt på stop</translation>
     </message>
     <message>
         <source>Limit share ratio...</source>
@@ -3286,8 +3286,8 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>Mærkat:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sæt torrents på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sæt torrents på stop</translation>
     </message>
     <message>
         <source>Resume torrents</source>
@@ -3751,8 +3751,8 @@ Brug ';' til af adskille flere indtastninger. Jokertegnet '*' kan bruges.</trans
         <translation>Hvis rækkefølgen på ord er vigtig, så brug * i stedet for blanktegn.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
-        <translation>Tilføj sat på pause:</translation>
+        <source>Add Stopped:</source>
+        <translation>Tilføj sat på stop:</translation>
     </message>
     <message>
         <source>Please type the name of the new download rule.</source>
@@ -3827,8 +3827,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Trackerløs (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Sæt torrents på pause</translation>
+        <source>Stop torrents</source>
+        <translation>Sæt torrents på stop</translation>
     </message>
     <message>
         <source>Remove torrents</source>

@@ -101,7 +101,7 @@
         <translation>Continuar torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausar torrents</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Acerca de</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pausar</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pausar todos</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>¿Te gustaría reanudar todos los torrents?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>¿Te gustaría pausar todos los torrents?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Subida más rápida</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pausar torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Tiempo activo:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>Continuados (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pausados (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>Completados (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pausados (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Estado</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tiempo Activo</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>hace %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pausados</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>Forzar continuación</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pausar</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>Etiqueta:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausar torrents</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Use ';' para dividir múltiples entradas. Puede usar el comodin '*'.</translatio
         <translation>Si el orden de las palabras es importante use * en vez de espacios.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Añadir pausado:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Admite los formatos: S01E01, 1x1, 2017.12.31 y 31.12.2017 (los formatos de fecha
         <translation>Sin tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausar torrents</translation>
     </message>
     <message>

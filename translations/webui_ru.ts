@@ -101,7 +101,7 @@
         <translation>Возобновить торренты</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Остановить торренты</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>О программе</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Остановить</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Остановить все</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Хотите возобновить все торренты?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Хотите приостановить все торренты?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Быстрейшая отдача</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Остановить торрент</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Время работы:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Возобновлены (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Остановлены (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Завершены (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Остановлены (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Состояние</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Время работы</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>%1 назад</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Остановлен</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Возобновить принудительно</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Остановить</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Метка:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Остановить торренты</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Если порядок слов важен, то используйте «*» вместо пробелов.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Добавить остановленным:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Без трекера (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Остановить</translation>
     </message>
     <message>

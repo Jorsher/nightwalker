@@ -101,7 +101,7 @@
         <translation>Obnoviť torrenty</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pozastaviť torrenty</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>O</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Pozastaviť</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Pozastaviť všetky</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Chcete obnoviť všetky torrenty?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Chcete pozastaviť všetky torrenty?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Najrýchlejší upload</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pozastaviť torrent</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Čas aktivity:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
         <translation>Obnovené (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Pozastavené (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
         <translation>Dokončené (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Pozastavené (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Stav</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Čas aktivity</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
         <translation>pred %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Pozastavené</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Použite ';' pre oddelenie viacerých položiek. Môžete použiť masku '*'.</t
         <translation>Vynútiť pokračovanie</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Pozastaviť</translation>
     </message>
     <message>
@@ -3287,7 +3287,7 @@ Kliknite na tlačidlo "Vyhľadať pluginy..." vpravo dole v okne, aby ste nejak�
         <translation>Značka:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pozastaviť torrenty</translation>
     </message>
     <message>
@@ -3752,7 +3752,7 @@ Kliknite na tlačidlo "Vyhľadať pluginy..." vpravo dole v okne, aby ste nejak�
         <translation>Ak je dôležité poradie slov, použite * namiesto medzery.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Pridať pozastavený:</translation>
     </message>
     <message>
@@ -3829,7 +3829,7 @@ Podporuje formáty: S01E01, 1x1, 2017.12.31 a 31.12.2017 (podporuje aj formáty 
         <translation>Bez trackeru (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pozastaviť torrenty</translation>
     </message>
     <message>

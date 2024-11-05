@@ -101,7 +101,7 @@
         <translation>Torrentの再開</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentの停止</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>詳細情報</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>停止</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>すべて停止</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>すべてのTorrentを再開しますか？</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>すべてのTorrentを一時停止しますか？</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>最速アップロード</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrent停止</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>稼働時間:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>再開 (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>停止中 (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>完了 (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>停止中 (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>状態</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>稼働時間</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>%1前</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>停止</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>強制再開</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>停止</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>タグ:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentの停止</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ DNSリバインディング攻撃を防ぐために、WebUIサーバーが使用
         <translation>語順が重要な場合は、空白ではなく'"*"を使用します。</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>一時停止で追加:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>トラッカーなし (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrentの一時停止</translation>
     </message>
     <message>

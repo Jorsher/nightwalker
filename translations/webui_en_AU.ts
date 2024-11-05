@@ -101,8 +101,8 @@
         <translation>Resume torrents</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Pause torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Stop torrents</translation>
     </message>
     <message>
         <source>New Category</source>
@@ -455,12 +455,12 @@
         <translation>About</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <translation>Pause</translation>
+        <source>Stop</source>
+        <translation>Stop</translation>
     </message>
     <message>
-        <source>Pause All</source>
-        <translation>Pause All</translation>
+        <source>Stop All</source>
+        <translation>Stop All</translation>
     </message>
     <message>
         <source>Add Torrent File...</source>
@@ -612,7 +612,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1189,7 +1189,7 @@
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -1897,7 +1897,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Time Active:</translation>
     </message>
     <message>
@@ -2249,7 +2249,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -2281,7 +2281,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation type="unfinished" />
     </message>
     <message>
@@ -2355,7 +2355,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Status</translation>
     </message>
     <message>
@@ -2447,7 +2447,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Time Active</translation>
     </message>
     <message>
@@ -2619,8 +2619,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Paused</source>
-        <translation>Paused</translation>
+        <source>Stopped</source>
+        <translation>Stopped</translation>
     </message>
     <message>
         <source>Completed</source>
@@ -2735,9 +2735,9 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation>Force Resume</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
-        <translation>Pause</translation>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
+        <translation>Stop</translation>
     </message>
     <message>
         <source>Limit share ratio...</source>
@@ -3282,8 +3282,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation type="unfinished" />
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Pause torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Stop torrents</translation>
     </message>
     <message>
         <source>Resume torrents</source>
@@ -3747,8 +3747,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</translation>
         <translation>If word order is important use * instead of white-space.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
-        <translation>Add Paused:</translation>
+        <source>Add Stopped:</source>
+        <translation>Add Stopped:</translation>
     </message>
     <message>
         <source>Please type the name of the new download rule.</source>
@@ -3823,8 +3823,8 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Tracker-less (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
-        <translation>Pause torrents</translation>
+        <source>Stop torrents</source>
+        <translation>Stop torrents</translation>
     </message>
     <message>
         <source>Remove torrents</source>

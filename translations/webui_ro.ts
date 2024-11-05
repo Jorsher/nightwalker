@@ -101,7 +101,7 @@
         <translation>Reia torentele</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Întrerupe torentele</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Despre</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Întrerupe</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Întrerupe toate</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Doriți să reluați toate torentele?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Doriți să întrerupeți toate torentele?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Încărcarea cea mai rapidă</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Întrerupe torentul</translation>
     </message>
     <message>
@@ -1901,7 +1901,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Timp activ:</translation>
     </message>
     <message>
@@ -2253,7 +2253,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Reluate (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Suspendate (0)</translation>
     </message>
     <message>
@@ -2285,7 +2285,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Încheiate (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Suspendate (%1)</translation>
     </message>
     <message>
@@ -2359,7 +2359,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Stare</translation>
     </message>
     <message>
@@ -2451,7 +2451,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Durată activă</translation>
     </message>
     <message>
@@ -2623,7 +2623,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>acum %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Întrerupt</translation>
     </message>
     <message>
@@ -2739,8 +2739,8 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Forțează reluarea</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Întrerupe</translation>
     </message>
     <message>
@@ -3286,7 +3286,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Marcaj:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Întrerupe torente</translation>
     </message>
     <message>
@@ -3751,7 +3751,7 @@ Use ';' to split multiple entries. Can use wildcard '*'.</source>
         <translation>Dacă ordinea cuvintelor este importantă utilizați * în loc de spațiu alb (gol).</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Adaugă suspendate:</translation>
     </message>
     <message>
@@ -3828,7 +3828,7 @@ Recunoaște formatele: S01E01, 1x1, 2017.12.31 si 31.12.2017 (Formatele pentru d
         <translation>Fără urmăritoare (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Întrerupe torente</translation>
     </message>
     <message>

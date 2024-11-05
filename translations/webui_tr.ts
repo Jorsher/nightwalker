@@ -101,7 +101,7 @@
         <translation>Torrent'lere devam et</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrent'leri duraklat</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Hakkında</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Duraklat</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Tümünü Duraklat</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Tüm torrent'leri devam ettirmek ister misiniz?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Tüm torrent'leri duraklatmak ister misiniz?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>En hızlı gönderme</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Torrent'i duraklat</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Etkinlik Süresi:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>Devam Edildi (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Duraklatıldı (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>Tamamlandı (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Duraklatıldı (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Durum</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Etkinlik Süresi</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>%1 önce</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Duraklatıldı</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>Devam Etmeye Zorla</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Duraklat</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>Etiket:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrent'leri duraklat</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ sunucusu tarafından kullanılan etki alanı adlarına eklemelisiniz.
         <translation>Eğer kelime sırası önemliyse boşluk yerine * kullanın.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Duraklatıldı Olarak Ekle:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Desteklenen biçimler: S01E01, 1x1, 2017.12.31 ve 31.12.2017 (Tarih biçimleri d
         <translation>İzleyicisiz (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Torrent'leri duraklat</translation>
     </message>
     <message>

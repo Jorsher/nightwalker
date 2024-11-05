@@ -101,7 +101,7 @@
         <translation>Atsākt torrentus</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Apturēt torrentus</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Par BitTorrent</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Apturēt</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Apturēt visus</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Vai vēlies atsākt visus torrentus?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Vai vēlies apturēt visus torrentus?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Ātrākā augšupielāde</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Apturēt torrentu</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktīvs jau:</translation>
     </message>
     <message>
@@ -2257,7 +2257,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Atsākti (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Apturēti (0)</translation>
     </message>
     <message>
@@ -2289,7 +2289,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Pabeigti (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Apturēti (%1)</translation>
     </message>
     <message>
@@ -2363,7 +2363,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Statuss</translation>
     </message>
     <message>
@@ -2455,7 +2455,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktīvs jau</translation>
     </message>
     <message>
@@ -2627,7 +2627,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>pirms %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Apturēts</translation>
     </message>
     <message>
@@ -2743,8 +2743,8 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Piespiedu atsākšana</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Apturēt</translation>
     </message>
     <message>
@@ -3290,7 +3290,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Atzīme:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Apturēt torrentus</translation>
     </message>
     <message>
@@ -3755,7 +3755,7 @@ Izmantojiet ';' lai atdalītu vairākus vārdus. Varat izmantot vietturi '*'.</t
         <translation>Ja vārdu secība ir svarīga, lietojiet * simbolu.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Pievienot apstādinātu:</translation>
     </message>
     <message>
@@ -3832,7 +3832,7 @@ Atbalsta formātus: S01E01, 1x1, 2017.12.31 un 31.12.2017 (Datumu formātos kā 
         <translation>Bez trakeriem (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Apturēt torrentus</translation>
     </message>
     <message>

@@ -101,7 +101,7 @@
         <translation>Riprendi torrent</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Metti in pausa torrent</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>Informazioni</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Metti in pausa</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Metti in pausa tutti</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Vuoi riprendere tutti i torrent?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Vuoi mettere in pausa tutti i torrent?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Upload veloce</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Pausa torrent</translation>
     </message>
     <message>
@@ -1907,7 +1907,7 @@ Usa ';' per dividere più voci.</translation>
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Durata attività:</translation>
     </message>
     <message>
@@ -2263,7 +2263,7 @@ Usa ';' per dividere più voci.</translation>
         <translation>Ripresi (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>In pausa (0)</translation>
     </message>
     <message>
@@ -2295,7 +2295,7 @@ Usa ';' per dividere più voci.</translation>
         <translation>Completati (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>In pausa (%1)</translation>
     </message>
     <message>
@@ -2369,7 +2369,7 @@ Usa ';' per dividere più voci.</translation>
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Stato</translation>
     </message>
     <message>
@@ -2461,7 +2461,7 @@ Usa ';' per dividere più voci.</translation>
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Tempo attivo</translation>
     </message>
     <message>
@@ -2633,7 +2633,7 @@ Usa ';' per dividere più voci.</translation>
         <translation>%1 fa</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>In pausa</translation>
     </message>
     <message>
@@ -2749,8 +2749,8 @@ Usa ';' per dividere più voci.</translation>
         <translation>Forza avvio</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Metti in pausa</translation>
     </message>
     <message>
@@ -3296,7 +3296,7 @@ Usa ';' per dividere più voci.</translation>
         <translation>Tag:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausa torrent</translation>
     </message>
     <message>
@@ -3764,7 +3764,7 @@ Puoi abilitarlo nelle impostazioni dell'applicazione.</translation>
         <translation>Se l'ordine delle parole è importante, usa * al posto degli spazi.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Aggiungi in pausa:</translation>
     </message>
     <message>
@@ -3840,7 +3840,7 @@ Supports the formats: S01E01, 1x1, 2017.12.31 and 31.12.2017 (Date formats also 
         <translation>Senza tracker (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Pausa torrent</translation>
     </message>
     <message>

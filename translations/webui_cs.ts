@@ -101,7 +101,7 @@
         <translation>Obnovit torrenty</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Zastavit torrenty</translation>
     </message>
     <message>
@@ -455,11 +455,11 @@
         <translation>O aplikaci</translation>
     </message>
     <message>
-        <source>Pause</source>
+        <source>Stop</source>
         <translation>Zastavit</translation>
     </message>
     <message>
-        <source>Pause All</source>
+        <source>Stop All</source>
         <translation>Zastavit vše</translation>
     </message>
     <message>
@@ -612,7 +612,7 @@
         <translation>Přejete si obnovit všechny torrenty?</translation>
     </message>
     <message>
-        <source>Would you like to pause all torrents?</source>
+        <source>Would you like to stop all torrents?</source>
         <translation>Přejete si pozastavit všechny torrenty?</translation>
     </message>
     <message>
@@ -1193,7 +1193,7 @@
         <translation>Nejrychlejší upload</translation>
     </message>
     <message>
-        <source>Pause torrent</source>
+        <source>Stop torrent</source>
         <translation>Zastavit torrent</translation>
     </message>
     <message>
@@ -1905,7 +1905,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Time Active:</source>
-        <extracomment>Time (duration) the torrent is active (not paused)</extracomment>
+        <extracomment>Time (duration) the torrent is active (not stopped)</extracomment>
         <translation>Aktivní po dobu:</translation>
     </message>
     <message>
@@ -2261,7 +2261,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Obnoveno (0)</translation>
     </message>
     <message>
-        <source>Paused (0)</source>
+        <source>Stopped (0)</source>
         <translation>Zastaveno (0)</translation>
     </message>
     <message>
@@ -2293,7 +2293,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Dokončeno (%1)</translation>
     </message>
     <message>
-        <source>Paused (%1)</source>
+        <source>Stopped (%1)</source>
         <translation>Zastaveno (%1)</translation>
     </message>
     <message>
@@ -2367,7 +2367,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Status</source>
-        <comment>Torrent status (e.g. downloading, seeding, paused)</comment>
+        <comment>Torrent status (e.g. downloading, seeding, stopped)</comment>
         <translation>Stav</translation>
     </message>
     <message>
@@ -2459,7 +2459,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
     </message>
     <message>
         <source>Time Active</source>
-        <comment>Time (duration) the torrent is active (not paused)</comment>
+        <comment>Time (duration) the torrent is active (not stopped)</comment>
         <translation>Aktivní po dobu</translation>
     </message>
     <message>
@@ -2631,7 +2631,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>před %1</translation>
     </message>
     <message>
-        <source>Paused</source>
+        <source>Stopped</source>
         <translation>Zastaveno</translation>
     </message>
     <message>
@@ -2747,8 +2747,8 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Vynutit obnovení</translation>
     </message>
     <message>
-        <source>Pause</source>
-        <comment>Pause the torrent</comment>
+        <source>Stop</source>
+        <comment>Stop the torrent</comment>
         <translation>Zastavit</translation>
     </message>
     <message>
@@ -3294,7 +3294,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Štítek:</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Zastavení torrentů</translation>
     </message>
     <message>
@@ -3759,7 +3759,7 @@ Použijte ';' pro oddělení více položek. Můžete použít masku '*'.</trans
         <translation>Je-li důležité pořadí slov, použijte * místo mezery.</translation>
     </message>
     <message>
-        <source>Add Paused:</source>
+        <source>Add Stopped:</source>
         <translation>Přidat zastavený:</translation>
     </message>
     <message>
@@ -3836,7 +3836,7 @@ Podporuje formáty: S01E01, 1x1, 2017.12.31 a 31.12.2017 (Formáty dat také pod
         <translation>Bez trackeru (%1)</translation>
     </message>
     <message>
-        <source>Pause torrents</source>
+        <source>Stop torrents</source>
         <translation>Zastavit torrenty</translation>
     </message>
     <message>
