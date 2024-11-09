@@ -18,7 +18,7 @@
 
 ### Clone this repo (Linux)
 1. `cd /opt`
-2. `sudo git clone https://github.com/CallMeBruce/nightwalker`
+2. `sudo git clone https://github.com/Jorsher/nightwalker` # dyno-proofing
 3. `sudo chmod -R 777 nightwalker`
 
 ### Activate Alterative WebUI in qBittorrent
